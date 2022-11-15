@@ -1,0 +1,30 @@
+_repo: Colei-che-non-si-deve-amare_69294
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verona, Guido da
+    alias: Da Verona, Guido
+    birthdate: 1881
+    deathdate: 1939
+    gutenberg_agent_id: '38208'
+    url: http://www.gutenberg.org/2009/agents/38208
+    wikipedia: http://it.wikipedia.org/wiki/Guido_da_Verona
+description: ''
+gutenberg_issued: '2022-11-04'
+identifiers:
+  gutenberg: '69294'
+language: it
+pgterms:marc904: https://archive.org/details/coleichenonsidev00verouoft
+pgterms:marc905: 20211102092123verona
+pgterms:marc906: '1920'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: 'Italy: Bemporad,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Colei che non si deve amare
+url: http://www.gutenberg.org/ebooks/69294
